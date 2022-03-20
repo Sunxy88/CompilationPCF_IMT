@@ -1,0 +1,1 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin:/usr/local/go/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Users/xisung/.cargo/bin:/Users/xisung/.composer/vendor/bin:/Users/xisung/apache-maven-3.6.1/bin:/Users/xisung/Desktop/StudyHard/IMT/3A/S6/compilation/wabt/bin:
